@@ -1,6 +1,6 @@
 
 
-# Hola, soy Facundo 👋, Full Stack Dev.
+# Hola, soy Facundo 👋, Full Stack Developer.
 
 
 # Bienvenidos a mi repositorio 🧑‍💻
