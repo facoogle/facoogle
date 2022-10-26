@@ -18,7 +18,7 @@ Dentro de mi perfil encontras los diferentes proyectos y aqui te dejo sus deploy
 * [DEPLOY](https://pi-countries-tau.vercel.app/) - pi-countries 🟢
 * [DEPLOY](https://clima-app-morefacu.vercel.app/) - Clima-app 🟢
 
-<h3 align="left">Proyectos</h3>
+<h3 align="left">Contacto</h3>
 
  [Whatsapp](https://wa.me/543434671033)  📲
  [Linkedin](https://www.linkedin.com/in/facundo-moreyra/)  ✅
