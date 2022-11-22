@@ -24,7 +24,7 @@ Dentro de mi perfil encontras los diferentes proyectos y aqui te dejo sus deploy
  [Whatsapp](https://wa.me/543434671033)  📲
  [Linkedin](https://www.linkedin.com/in/facundo-moreyra/)  ✅
  facoogle@gmail.com 📩
- 
+ .
  
  
 
